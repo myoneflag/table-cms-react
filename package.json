@@ -1,0 +1,47 @@
+{
+  "name": "table-cms-react",
+  "version": "1.0.0",
+  "description": "Build table for cms",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myoneflag/table-cms-react.git"
+  },
+  "keywords": [
+    "cms",
+    "table",
+    "table-cms",
+    "table-cms-react"
+  ],
+  "author": "myoneflag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myoneflag/table-cms-react/issues"
+  },
+  "homepage": "https://github.com/myoneflag/table-cms-react#readme",
+  "dependencies": {
+    "antd": "^4.7.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-scripts": "^3.4.3"
+  },
+  "devDependencies": {},
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
